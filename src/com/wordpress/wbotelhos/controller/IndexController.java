@@ -7,7 +7,7 @@ import br.com.caelum.vraptor.Result;
 
 /**
  * @author Washington Botelho dos Santos
- * @artigo http://wbotelhos.wordpress.com/2010/01/19/manipulando-dados-json-via-ajax-com-vraptor-3
+ * @artigo http://wbotelhos.wordpress.com/2010/01/20/manipulando-dados-json-via-ajax-com-vraptor-3
  */
 
 @Resource
