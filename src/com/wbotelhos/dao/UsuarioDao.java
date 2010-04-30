@@ -1,13 +1,13 @@
-package com.wordpress.wbotelhos.dao;
+package com.wbotelhos.dao;
 
 import br.com.caelum.vraptor.ioc.Component;
 
-import com.wordpress.wbotelhos.model.Contato;
-import com.wordpress.wbotelhos.model.Usuario;
+import com.wbotelhos.model.Contato;
+import com.wbotelhos.model.Usuario;
 
 /**
  * @author Washington Botelho dos Santos
- * @artigo http://wbotelhos.wordpress.com/2010/01/20/manipulando-dados-json-via-ajax-com-vraptor-3
+ * @artigo http://wbotelhos.com/2010/01/20/manipulando-dados-json-via-ajax-com-vraptor-3
  */
 
 @Component
